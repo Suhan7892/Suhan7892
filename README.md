@@ -76,9 +76,10 @@ I am focused on:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhan7892&show_icons=true&theme=tokyonight)
 ---
 
-### 🔗 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhan7892&show_icons=true&theme=tokyonight)
+
+---
