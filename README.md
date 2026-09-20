@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Suhan
 
 <p align="center">
-  <img src="./Suhan_GitHub_Animated_Text_Green.gif" alt="Animated Developer Text">
+  <img src="./Suhan_GitHub_Animated_Text_Green-1.gif" alt="Animated Developer Text">
 </p>
 
 I'm a BCA student from 🇮🇳 India, currently learning Java and
