@@ -74,12 +74,3 @@ I am focused on:
 - Learn System Design
 - Contribute to Open Source
 
----
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhan7892&show_icons=true&theme=tokyonight)
-
----
